@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+}
+.game-time{
+    padding-bottom: 20px;
+    text-align: center;
+}
+body{
+    background-color: rgb(118, 150, 153);
+    text-align: center;
+}
+.new-game{
+    background-color: rgb(48, 195, 214);
+}
+table{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;                         
+    margin: 0;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+    background-color: goldenrod;
+}
+td button {
+    margin: 0;
+    border-width: 1px;
+    border-radius: 40%;
+    border-color: lightgray;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    background-color: goldenrod;
+}
+button:hover{
+    cursor: pointer;
+}
